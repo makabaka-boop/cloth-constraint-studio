@@ -1,0 +1,1 @@
+{"root":["./src/main.tsx","./src/sim/SimClient.ts","./src/sim/core.test.ts","./src/sim/core.ts","./src/sim/export.ts","./src/sim/protocol.ts","./src/sim/simWorker.ts","./src/sim/types.ts","./src/sim/workerKernel.test.ts","./src/sim/workerKernel.ts","./src/ui/App.tsx","./src/ui/ClothCanvas.tsx","./src/ui/ControlPanel.tsx","./src/ui/Inspector.tsx"],"version":"5.9.3"}
